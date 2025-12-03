@@ -1,0 +1,6 @@
+gradio>=4.0
+pydub
+librosa>=0.10.0
+numpy
+scipy
+soundfile

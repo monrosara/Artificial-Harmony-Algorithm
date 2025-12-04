@@ -8,7 +8,7 @@ short_description: "Generate AI-powered harmonic music mixes from audio samples.
 
 # 🎵  Artificial Harmony Algorithm
 
-[![Hugging Face Spaces](https://img.shields.io/badge/🤗-Hugging%20Face%20Space-blue)](https://huggingface.co/spaces/Dmtlant/aha-algorithm)
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗-Hugging%20Face%20Space-blue)](https://huggingface.co/spaces/SaraRay/Artificial-Harmony-Algorithm)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/monrosara/Artificial-Harmony-Algorithm)
 [![Python Version](https://img.shields.io/badge/python-3.10+-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -30,7 +30,7 @@ An intelligent music mixer that creates harmonious, multi-layer compositions fro
 ## 🌐 Live Demo
 
 Try the live version on Hugging Face Spaces:  
-**[https://huggingface.co/spaces/Dmtlant/aha-algorithm](https://huggingface.co/spaces/Dmtlant/aha-algorithm)**
+**[https://huggingface.co/spaces/Dmtlant/aha-algorithm](https://huggingface.co/spaces/SaraRay/Artificial-Harmony-Algorithm)**
 
 > ⚠️ **Note:** The demo may take 30-60 seconds to load on first access due to server startup.
 
@@ -38,7 +38,7 @@ Try the live version on Hugging Face Spaces:
 
 ### Option 1: Online Demo (Recommended)
 
-1. Visit **[https://huggingface.co/spaces/Dmtlant/aha-algorithm](https://huggingface.co/spaces/Dmtlant/aha-algorithm)**
+1. Visit **[https://huggingface.co/spaces/Dmtlant/aha-algorithm](https://huggingface.co/spaces/SaraRay/Artificial-Harmony-Algorithm)**
 2. Wait for the interface to load
 3. Start creating mixes immediately
 

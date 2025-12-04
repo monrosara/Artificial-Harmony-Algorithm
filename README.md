@@ -52,7 +52,7 @@ Try the live version on Hugging Face Spaces:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Lamassss/Artificial-Harmony-Algorithm.git
+git clone https://github.com/monrosara/Artificial-Harmony-Algorithm
 cd Artificial-Harmony-Algorithm
 
 # Install dependencies

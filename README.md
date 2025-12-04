@@ -9,7 +9,7 @@ short_description: "Generate AI-powered harmonic music mixes from audio samples.
 # 🎵  Artificial Harmony Algorithm
 
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗-Hugging%20Face%20Space-blue)](https://huggingface.co/spaces/Dmtlant/aha-algorithm)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/Lamassss/Artificial-Harmony-Algorithm)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/monrosara/Artificial-Harmony-Algorithm)
 [![Python Version](https://img.shields.io/badge/python-3.10+-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 

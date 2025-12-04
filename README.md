@@ -30,7 +30,7 @@ An intelligent music mixer that creates harmonious, multi-layer compositions fro
 ## 🌐 Live Demo
 
 Try the live version on Hugging Face Spaces:  
-**[https://huggingface.co/spaces/Dmtlant/aha-algorithm](https://huggingface.co/spaces/SaraRay/Artificial-Harmony-Algorithm)**
+**[https://huggingface.co/spaces/SaraRay/Artificial-Harmony-Algorithm](https://huggingface.co/spaces/SaraRay/Artificial-Harmony-Algorithm)**
 
 > ⚠️ **Note:** The demo may take 30-60 seconds to load on first access due to server startup.
 
@@ -38,7 +38,7 @@ Try the live version on Hugging Face Spaces:
 
 ### Option 1: Online Demo (Recommended)
 
-1. Visit **[https://huggingface.co/spaces/Dmtlant/aha-algorithm](https://huggingface.co/spaces/SaraRay/Artificial-Harmony-Algorithm)**
+1. Visit **[https://huggingface.co/spaces/SaraRay/Artificial-Harmony-Algorithm](https://huggingface.co/spaces/SaraRay/Artificial-Harmony-Algorithm)**
 2. Wait for the interface to load
 3. Start creating mixes immediately
 
